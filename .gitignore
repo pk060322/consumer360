@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+.venv/
+
+# Credentials — NEVER commit these
+python/db_config_local.py
+.env.local
+secrets.json
+
+# Logs — generated at runtime
+logs/*.log
+logs/*.txt
+!logs/.gitkeep
+
+# Power BI temp files
+*.pbix.bak
+~*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
