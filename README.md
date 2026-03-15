@@ -2,8 +2,7 @@
 
 > A production-grade, end-to-end data analytics system demonstrating the full data lifecycle: SQL Engineering → Python Analytics → RFM Segmentation → Power BI Dashboard → Automated Pipeline.
 
-![Consumer360 Banner](diagrams/architecture_banner.svg)
-
+![Consumer360 Banner](diagrams/architecture_banner.png)
 ---
 
 ## 📌 Project Summary
