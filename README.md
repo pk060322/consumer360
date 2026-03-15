@@ -2,7 +2,7 @@
 
 > A production-grade, end-to-end data analytics system demonstrating the full data lifecycle: SQL Engineering → Python Analytics → RFM Segmentation → Power BI Dashboard → Automated Pipeline.
 
-![Project Banner](diagrams/architecture_banner.png)
+![Consumer360 Banner](diagrams/architecture_banner.svg)
 
 ---
 
@@ -94,7 +94,7 @@ consumer360/
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/consumer360.git
+git clone https://github.com/pk060322/consumer360.git
 cd consumer360
 ```
 
@@ -166,9 +166,9 @@ See `docs/pipeline_schedule.md` for scheduling instructions.
 **Your Name**
 Data Analyst | SQL · Python · Power BI
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/pankajkumar0)
+- GitHub: [github.com/yourusername](https://github.com/pk060322)
+- Email: pk060322@gmail.com
 
 ---
 
