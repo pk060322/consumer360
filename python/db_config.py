@@ -12,7 +12,7 @@ DB_CONFIG = {
     'port':     int(os.getenv('DB_PORT', '3306')),
     'database': os.getenv('DB_NAME',     'consumer360'),
     'user':     os.getenv('DB_USER',     'root'),       # ← update this
-    'password': os.getenv('DB_PASSWORD', 'your_password'),  # ← update this
+    'password': os.getenv('DB_PASSWORD', 'Pankaj@11'),  # ← update this
     'charset':  'utf8mb4',
     'autocommit': False
 }
